@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🎆 I have completed my master's degree in computer science 
+- 😎 Graduated with an M.S. in Computer Science
 <!--
 **Qcc-2000/Qcc-2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
